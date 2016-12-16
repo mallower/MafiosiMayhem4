@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MafiosiMayhem.CSharp.Plugins", "MafiosiMayhem.CSharp.Plugins.csproj", "{BC100E12-A36D-9D62-2180-D40DD7EA1F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MafiosiMayhem.CSharp", "MafiosiMayhem.CSharp.csproj", "{129BF8AA-D87D-B08A-9D43-8F08A4FD1C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MafiosiMayhem.CSharp.Editor", "MafiosiMayhem.CSharp.Editor.csproj", "{55E9E534-91AF-9373-D693-6A864C57D898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC100E12-A36D-9D62-2180-D40DD7EA1F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC100E12-A36D-9D62-2180-D40DD7EA1F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC100E12-A36D-9D62-2180-D40DD7EA1F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC100E12-A36D-9D62-2180-D40DD7EA1F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129BF8AA-D87D-B08A-9D43-8F08A4FD1C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129BF8AA-D87D-B08A-9D43-8F08A4FD1C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129BF8AA-D87D-B08A-9D43-8F08A4FD1C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129BF8AA-D87D-B08A-9D43-8F08A4FD1C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E9E534-91AF-9373-D693-6A864C57D898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E9E534-91AF-9373-D693-6A864C57D898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E9E534-91AF-9373-D693-6A864C57D898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E9E534-91AF-9373-D693-6A864C57D898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
